@@ -1,3 +1,0 @@
-E:\3计划项目\0机房收费合作版-2018-5-28\机房收费系统-合作版\ChargeSystem\bin\Debug\UI.exe.config
-C:\Users\YJ\Desktop\machine_room_charging_system\ChargeSystem\bin\Debug\UI.exe.config
-C:\Users\rxs\Desktop\machine_room_charging_system\ChargeSystem\bin\Debug\UI.exe.config
